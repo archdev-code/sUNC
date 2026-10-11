@@ -637,7 +637,7 @@ local function BuildUI()
     SubLabel.Size = UDim2.new(1, -70, 0, 16)
     SubLabel.Position = UDim2.new(0, 18, 0, 32)
     SubLabel.BackgroundTransparency = 1
-    SubLabel.Text = "Executor Capability Report"
+    SubLabel.Text = "Executor Test"
     SubLabel.TextColor3 = Color3.fromRGB(110, 140, 200)
     SubLabel.Font = Enum.Font.Gotham
     SubLabel.TextSize = 11
