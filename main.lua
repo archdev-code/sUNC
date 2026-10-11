@@ -626,7 +626,7 @@ local function BuildUI()
     Title.Size = UDim2.new(1, -70, 0, 22)
     Title.Position = UDim2.new(0, 18, 0, 8)
     Title.BackgroundTransparency = 1
-    Title.Text = "Sunc Test"
+    Title.Text = "Download.gg"
     Title.TextColor3 = Color3.fromRGB(240, 240, 245)
     Title.Font = Enum.Font.GothamBold
     Title.TextSize = 15
@@ -637,7 +637,7 @@ local function BuildUI()
     SubLabel.Size = UDim2.new(1, -70, 0, 16)
     SubLabel.Position = UDim2.new(0, 18, 0, 32)
     SubLabel.BackgroundTransparency = 1
-    SubLabel.Text = "Executor Test"
+    SubLabel.Text = "sUNC-Test"
     SubLabel.TextColor3 = Color3.fromRGB(110, 140, 200)
     SubLabel.Font = Enum.Font.Gotham
     SubLabel.TextSize = 11
